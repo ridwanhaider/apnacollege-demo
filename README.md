@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repository
 <br>
-Author - Ridwan Haider
+Author - Ridwan Haider (Nawdir Academy)
